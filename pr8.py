@@ -1,0 +1,1 @@
+print(f'The distance in miles is {(k := float(input('please enter the distance in km format: ')) * 0.621371)} ')

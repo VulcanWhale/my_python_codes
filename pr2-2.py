@@ -1,0 +1,2 @@
+# python program to print the sum of two numbers in a single line
+print('The sum is %.2f' %(float(input('PLease enter a number in float: ')) + float(input('please enter the second number in float: '))))
