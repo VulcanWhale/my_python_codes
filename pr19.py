@@ -3,14 +3,19 @@
 is a number that is equal to the sum of its own digits each raised to the power of the number of digits."""
 
 def armstrong(n):
-    t_sum = 0
     l = len(str(n))
+    sum = 0
+    n2 = n
 
-    t_sum = sum(n ** l for i in str(n))
+    while n2>0:
+        d = n2 % 10
+        sum += d ** l
+        n2 //= 10
 
-    return t_sum == n
+    return sum == n
 
-n = int(input("Please enter a number: "))
+
+n = int(input("Enter a number: "))
 
 if armstrong(n):
     print(f"{n} is an armstrong number.")
