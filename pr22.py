@@ -1,5 +1,5 @@
 # python program to Display the powers of 2 using anonymous function
-# i will use lambda function iin this program
+# i will use lambda function in this program
 
 def power(t):
     res = list(map(lambda x: 2**x, range(t)))
