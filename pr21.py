@@ -1,5 +1,5 @@
 # python program to print the sum of natural numbers upto a limit 
-# we are going to takr the limit as input from the user here
+# we are going to take the limit as input from the user here
 
 def sumnat(n):
     sum,i = 0,1
