@@ -24,6 +24,18 @@ Here is a list of Python programs I have practiced so far:
 16. **Python Program to Find the Factorial of a Number**
 17. **Python Program to Display the Multiplication Table**
 18. **Python Program to Print the Fibonacci Sequence**
+19. **Python Program to Check Armstrong Number**
+20. **Python Program to Find Armstrong Number in an Interval**
+21. **Python Program to Find the Sum of Natural Numbers**
+22. **Python Program to Display Powers of 2 Using Anonymous Function**
+23. **Python Program to Find Numbers Divisible by Another Number**
+24. **Python Program to Convert Decimal to Binary, Octal and Hexadecimal**
+25. **Python Program to Find ASCII Value of Character**
+26. **Python Program to Find HCF or GCD**
+27. **Python Program to Find LCM**
+28. **Python Program to Find the Factors of a Number**
+29. **Python Program to Make a Simple Calculator**
+30. **Python Program to Shuffle Deck of Cards**
 
 ## How to Run the Programs
 
