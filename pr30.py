@@ -8,4 +8,5 @@ suits = ['Spade','Heart','Diamond','Club']
 #making the deck of cards
 deck = [(r,s) for r in ranks for s in suits]
 
+# using random module to shuffle the cards
 random.shuffle(deck)
