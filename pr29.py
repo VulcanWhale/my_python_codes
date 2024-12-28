@@ -25,4 +25,4 @@ while True:
     else:
         print(f"{a} divided by {b} is {a/b}")
 
-    c = int(input("Please enter your opotion: "))
+    c = int(input("Please enter your option: "))
