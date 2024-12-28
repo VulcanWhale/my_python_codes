@@ -15,3 +15,14 @@ while True:
         break
 
     a,b = inp()
+
+    if c == 1:
+        print(f"The Sum of {a} and {b} is {a+b}")
+    elif c == 2:
+        print(f"The subtraction of {a} and {b} is {a-b}")
+    elif c == 3:
+        print(f"The multiplication of {a} and {b} is {a*b}")
+    else:
+        print(f"{a} divided by {b} is {a/b}")
+
+    c = int(input("PLease enter your opotion: "))
