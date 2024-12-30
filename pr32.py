@@ -9,4 +9,4 @@ def fibo(n):
 num = int(input("Please enter a number: ")) 
 
 for i in range(num):
-    print(fibo(i))
+    print(fibo(i), end = " ")
