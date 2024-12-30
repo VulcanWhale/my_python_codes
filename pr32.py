@@ -6,4 +6,7 @@ def fibo(n):
     else:
         return fibo(n-1) + fibo(n-2)
     
-num = int(input("Please enter a number: "))
+num = int(input("Please enter a number: ")) 
+
+for i in range(num):
+    print(fibo(i))
