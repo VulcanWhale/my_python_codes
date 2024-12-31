@@ -6,3 +6,6 @@ def bin(num):
     print(n % 2, end = ' ')
 
 n = int(input("Please enter the decimal number: "))
+
+bin(n)
+print()
