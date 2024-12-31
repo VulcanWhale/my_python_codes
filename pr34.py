@@ -4,7 +4,7 @@ def rec_fac(n):
     if n == 1:
         return n
     else:
-        return n * rec_fac(n-2)
+        return n * rec_fac(n-1)
     
 num = int(input("Please enter a number: "))
 
