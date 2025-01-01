@@ -15,8 +15,8 @@ res = [[0,0,0],
        [0,0,0]]
 
 
-for i in (len(x)):
-    for j in range(len(x[0])):
+for i in (len(a)):
+    for j in range(len(a[0])):
         res[i][j] = a[i][j] + b[i][j]
 
 # printing the result
