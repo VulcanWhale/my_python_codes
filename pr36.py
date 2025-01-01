@@ -15,4 +15,10 @@ res = [[0,0,0],
        [0,0,0]]
 
 
-for i in (len(x))
+for i in (len(x)):
+    for j in range(len(x[0])):
+        res[i][j] = a[i][j] + b[i][j]
+
+# printing the result
+for r in res:
+    print(r)
